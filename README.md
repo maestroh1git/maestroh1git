@@ -1,7 +1,7 @@
 ### Hello World! 👋
 - Welcome,
 - 👯 I’m looking to collaborate on amazing web3 projects, I love learning!
-- 🌱 I’m currently learning applications of Zero-Knowledge proofs
+- 🌱 I’m currently learning applications of WASM
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/david-amaku), [Twitter](https://twitter.com/validateweb3), [Discord](Maestrohwithit#7408)
 - ⚡ I enjoy [music](https://open.spotify.com/playlist/37i9dQZF1E38ZjvvzEB2wq?si=f000bcf1cd1c430e) , coding, gaming, and parties.
 - ⚡ Fun fact: I have an electrical engineering degree...
